@@ -11,6 +11,7 @@ The things I've worked on or I'm currently working on include:
 - [Mainboard](https://github.com/fxtressia/jtraine-mainboard) - a simple organ drawbar+pitchbend MIDI controller built with the ESP32-S3 microcontroller
 - [Waylovely](https://github.com/waylovely-comp) - a project to bring Linux desktop app compatibility into to the Android platform
 - [floral bouquet](https://codeberg.org/floral/bouquet) - a Rust visual novel engine for the Bevy engine
+- [Rusty Themy](https://codeberg.org/xasteria/rusty_themy) - a Rust library that gets the current platform color theme for you.
 <!--
 **fxtressia/fxtressia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
