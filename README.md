@@ -4,7 +4,7 @@
 <img width="64" height="30" alt="image" src="https://github.com/user-attachments/assets/a86c52af-bbaa-4d77-8918-740dc774ef7e" />
 
 
-Hi! I'm three things: an avid Rustacean, a Linux hobbyist, and an aspiring embedded systems engineer. I have been working with Linux systems and the Rust programming language since 2022, when these were merely some hobbies of mine. However, my curiosity to learn and explore the world of low-level computing led me to go further and to use what I have to help other people as much as I can.
+Hi! I'm three things: an avid Rustacean, a Linux hobbyist, and an aspiring embedded systems engineer. I have been working with Linux systems and the Rust programming language since 2022, when these were merely some hobbies of mine. However, my curiosity to learn and explore the world of low-level computing is leading me to go further. Furthermore, the upbringing I got growing up in open source communities drives me to turn what I have into solutions that would help other people as much as they could.
 
 Excited to see the things brewing in my machine's Rust and C compiler? Me too...!
 
