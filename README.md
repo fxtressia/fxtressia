@@ -1,3 +1,9 @@
+
+<img width="76" height="94" alt="Ralsei_overworld_shocked" src="https://github.com/user-attachments/assets/41773574-0f6b-49f7-8905-261a48a828fb" />
+<img width="62" height="46" alt="image" src="https://github.com/user-attachments/assets/e8ce7779-f95e-45db-aad9-1d75a2b55d15" />
+<img width="64" height="30" alt="image" src="https://github.com/user-attachments/assets/a86c52af-bbaa-4d77-8918-740dc774ef7e" />
+
+
 Hi! I'm a Linux systems programmer and aspiring embedded systems engineer. I have been working with Linux systems and the Rust programming language since 2022, when this was just a hobby of mine. However, my curiosity to learn and explore the world of low-level computing will not limit me to the aforementioned topics. 
 
 The things I've worked on or I'm currently working on include:
