@@ -1,11 +1,16 @@
-## Hi there 👋
+Hi! I'm a Linux systems programmer and aspiring embedded systems engineer. I have been working with Linux systems and the Rust programming language since 2022, when this was just a hobby of mine. However, my curiosity to learn and explore the world of low-level computing will not limit me to the aforementioned topics. 
+
+The things I've worked on or I'm currently working on include:
+- [Kawaii](https://github.com/waylovely-comp/kawaii) - a specialized buildsystem for Android cross-compilation
+- [Mainboard](https://github.com/fxtressia/jtraine-mainboard) - a simple organ drawbar+pitchbend MIDI controller built with the ESP32-S3 microcontroller.
+- [Waylovely](https://github.com/waylovely-comp) - a project to bring Linux desktop app compatibility into to the Android platform.
 
 <!--
 **fxtressia/fxtressia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
